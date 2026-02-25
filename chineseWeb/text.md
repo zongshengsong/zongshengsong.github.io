@@ -7,4 +7,3 @@
 
 我曾在北京林业大学  教授和微软亚洲研究院  的指导下研究移动计算机系统。
 
-我曾作为访问学生在英属哥伦比亚大学从事动态图算法的研究，导师是Matei Ripeanu 教授，该研究得到了Mitacs globalink research internship 和国家留学基金委的支持。
